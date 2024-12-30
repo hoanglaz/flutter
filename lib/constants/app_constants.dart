@@ -1,5 +1,5 @@
 abstract class ThingsboardAppConstants {
-  static final thingsBoardApiEndpoint = 'https://koden.espitek.com';
+  static final thingsBoardApiEndpoint = 'https://koden-dev-2.espitek.com';
   static final thingsboardOAuth2CallbackUrlScheme =
       'org.thingsboard.pe.app.auth';
 
